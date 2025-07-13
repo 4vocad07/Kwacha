@@ -21,3 +21,5 @@ A web app where users earn coins by watching YouTube ads, refer friends, and red
 ## Getting Started
 
 ### 1. Clone the repo
+git clone https://github.com/4vocad07/kwacha.git 
+cd kwacha
